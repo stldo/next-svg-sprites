@@ -2,7 +2,7 @@
 
 Generate SVG sprites from imported files using [SVG sprite loader][3].
 
-## Install
+## Installation
 
 ```sh
 npm install next-svg-sprites svg-sprite-loader
@@ -64,7 +64,7 @@ export default () => (
 }
 ```
 
-## Configuration
+## Options
 
 ### minifyIds
 
