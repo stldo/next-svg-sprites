@@ -10,7 +10,7 @@ npm install next-svg-sprites svg-sprite-loader
 
 ## Usage
 
-### `next-with-plugins`
+### With [next-with-plugins][4]
 
 ```js
 /* next.config.js */
@@ -83,8 +83,8 @@ Options used by `svg-sprite-loader/plugin`. By default, `plainSprite` is set to
 ### SVG sprite loader options
 
 Any other option passed to `next-svg-sprites` will be passed to
-`svg-sprite-loader` — more info about its options can be found [here][4]. By
-default, this plugin will set the followig options:
+`svg-sprite-loader` — more info about its options can be found [here][5]. By
+default, this plugin will set the following options:
 
 ```js
 {
@@ -104,5 +104,6 @@ default, this plugin will set the followig options:
 [1]: https://img.shields.io/npm/v/next-svg-sprites
 [2]: https://www.npmjs.com/package/next-svg-sprites
 [3]: https://github.com/JetBrains/svg-sprite-loader
-[4]: https://github.com/JetBrains/svg-sprite-loader#configuration
+[4]: https://github.com/stldo/next-with-plugins
+[5]: https://github.com/JetBrains/svg-sprite-loader#configuration
 [license]: ./LICENSE
