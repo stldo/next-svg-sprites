@@ -1,6 +1,6 @@
 {
   "name": "next-svg-sprites",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate SVG sprites from imported files using SVG sprite loader",
   "repository": "https://github.com/stldo/next-svg-sprites",
   "keywords": [
