@@ -91,7 +91,7 @@ default, this plugin will set the following options:
   esModule: false,
   extract: true,
   spriteFilename: 'static/sprites.[contenthash].svg',
-  symbolId: '[name]--[hash:base64:5]',
+  symbolId: '[name]--[hash:base64:5]'
 }
 ```
 
